@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DTCDentalProjectPhase1.props" />
+</Project>
